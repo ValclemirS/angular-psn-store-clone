@@ -1,0 +1,14 @@
+.container_content {
+    border: solid 2px white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+}
+.container_content1 {
+    border: solid 2px white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+}
