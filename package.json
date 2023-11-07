@@ -1,7 +1,7 @@
 {
   "name": "store",
   "version": "0.0.0",
-  "homepage": "http://ValclemirS.github.io/angular-psn-store-clone/",
+  "homepage": "http://ValclemirS.github.io/angular-psn-store-clone",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
